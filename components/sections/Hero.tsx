@@ -42,7 +42,7 @@ export function Hero() {
           transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
         >
           <Image
-            src="/manish-hero.svg"
+            src="/manish-hero.png"
             alt={`Portrait of ${siteConfig.name}`}
             fill
             priority
