@@ -11,7 +11,7 @@ export function Hero() {
       <div className="mx-auto grid max-w-7xl items-center gap-12 md:grid-cols-2 md:gap-16">
         <div>
           <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl md:text-6xl">
-            <span className="block text-lg font-semibold tracking-widest text-blue-400 uppercase sm:text-xl">
+            <span className="block text-lg font-semibold tracking-widest text-white uppercase sm:text-xl">
               Manish Tripathi
             </span>
             Turn AI hype into{" "}

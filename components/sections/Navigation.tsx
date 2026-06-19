@@ -12,7 +12,7 @@ export function Navigation() {
   return (
     <header className="fixed top-0 z-50 w-full border-b border-white/10 bg-black/60 backdrop-blur-md">
       <nav className="mx-auto flex h-16 max-w-7xl items-center justify-between px-6 md:px-20">
-        <Link href="#" className="text-base font-bold tracking-tight text-foreground">
+        <Link href="#" className="text-base font-bold tracking-tight text-blue-400">
           {siteConfig.name}
         </Link>
 
