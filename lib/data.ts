@@ -84,5 +84,5 @@ export const testimonials: Testimonial[] = [
 export const socialLinks = [
   { label: "LinkedIn", href: "https://linkedin.com/in/manish-tripathi" },
   { label: "Twitter", href: "https://twitter.com/manishtripathi" },
-  { label: "Instagram", href: "https://instagram.com/manishtripat" },
+  { label: "Instagram", href: "https://instagram.com/manishtripathi" },
 ];
